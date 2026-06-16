@@ -1,0 +1,8 @@
+{
+  "name": "Remix: N22POS Enterprise Logistics Portal",
+  "description": "Enterprise-grade Network Management, Routing Engine, Capacity Planning, and National Logistics Control Tower for Pos Indonesia - N22 Angkutan Transformation",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
